@@ -4,5 +4,5 @@ The application deployed is connect with github Hence and development will direc
 The application is deployed on Heruko which is cloud Platform (Saas) provides software as service .
 
 Technologies used in Application are :
-Huruko , Node.js , React.js , Express.js , Html 
+Heroku , Node.js , React.js , Express.js , Html 
 
